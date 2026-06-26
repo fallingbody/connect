@@ -1,0 +1,6 @@
+{
+  "name": "Couple Connect",
+  "description": "A highly interactive, real-time application for couples to stay connected through utility tools, games, and shared moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
